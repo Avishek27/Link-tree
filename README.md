@@ -1,7 +1,3 @@
-Certainly! Below is a basic template for a README file for your Link-tree repository:
-
----
-
 # Link-Tree
 
 Link-Tree is a simple and customizable link management system that allows you to create a personalized landing page with links to your social media profiles, websites, and more. This project aims to provide a clean and user-friendly way for others to access your various online platforms.
@@ -13,12 +9,10 @@ Link-Tree is a simple and customizable link management system that allows you to
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
-
+[Link-Tree Screenshot]((https://github.com/Avishek27/Link-tree/blob/main/ss.png))
 
 ![Link-Tree Screenshot](screenshot.png)
 
