@@ -12,9 +12,9 @@ Link-Tree is a simple and customizable link management system that allows you to
 
 ## Demo
 
-[Link-Tree Screenshot]((https://github.com/Avishek27/Link-tree/blob/main/ss.png))
+[Link-Tree Screenshot](https://github.com/Avishek27/Link-tree/blob/main/ss.png?raw=true)
 
-![Link-Tree Screenshot](screenshot.png)
+
 
 ## Features
 
