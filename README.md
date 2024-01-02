@@ -59,6 +59,3 @@ Update the links in the `index.html` file with your own social media profiles, w
 ### Adjusting Styles
 
 Customize the styles by modifying the CSS in the `style.css` file. You can change colours, fonts, and other styling elements.
-
-
-Feel free to add or modify sections based on the specific details of your Link-Tree project.
